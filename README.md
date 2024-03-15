@@ -1,5 +1,5 @@
 # E-Commerce-Sales-Insight
-Leveraging Excel Dashboard to generate Insight from an e-Commerce company
+Leveraging Excel Dashboard to generate Insight for  e-Commerce company
 
 # Sterling E-Commerce Dashboard
 
