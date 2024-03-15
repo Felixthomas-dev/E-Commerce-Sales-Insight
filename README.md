@@ -75,7 +75,7 @@ The dashboard visualizes key metrics such as
 
 Please see the dashboard.png for a graphical representation of our insights and findings.
 
-For further details on the data and insights, you can refer to the `Sterling E-Commerce Data--.xlsx` and `Presentation.pptx`.
+For further details on the data and insights, you can refer to the `Sterling E-Commerce Data--.xlsb`,`Presentation.pptx` and `Dashboard.png`.
 
 ---
 
